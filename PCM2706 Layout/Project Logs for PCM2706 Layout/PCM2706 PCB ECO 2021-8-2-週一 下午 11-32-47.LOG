@@ -1,0 +1,13 @@
+Added Component: Designator=C?(CAPC3216X229N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1206DD106KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1206dd106kat2a/avx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://datasheets.avx.com/cx5r.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.29mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1206DD106KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-1206DD106KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/AVX/1206DD106KAT2A?qs=lhAPX%252BE7qEb%2Fwkl82gv0Wg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=NetC8_2 Pin=C?-2
+Added Member To Class: ClassName=PCM2706 Member=Component C? 1206DD106KAT2A
+Added Room: Name=PCM2706

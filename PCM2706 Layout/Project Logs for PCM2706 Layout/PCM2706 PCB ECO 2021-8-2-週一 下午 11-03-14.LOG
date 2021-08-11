@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=NetIC?_23 Pin=J?-A6
+Removed Pin From Net: NetName=NetIC?_22 Pin=J?-A7
+Removed Pin From Net: NetName=NetIC?_23 Pin=J?-B6
+Removed Pin From Net: NetName=NetIC?_22 Pin=J?-B7
+Added Component: Designator=C?(CAPC127115X670N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SMP253MA4470MTR24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/smp253ma4470mtr24/kemet-corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://api.kemet.com/component-edge/download/datasheet/SMP253MA4470MTR24.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "6.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMP253MA4470MTR24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-SMP253MA4470MTR24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/SMP253MA4470MTR24/?qs=ffqAhwBssBuqiHWB7iiUew%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC3116X65N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RC1206FR-072K49L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc1206fr-072k49l/yageo?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-072K49L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC1206FR-072K49L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC1206FR-072K49L?qs=fiyQ2z0a5enkp4BEXpmN7g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC3116X65N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RC1206FR-072K49L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc1206fr-072k49l/yageo?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-072K49L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC1206FR-072K49L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC1206FR-072K49L?qs=fiyQ2z0a5enkp4BEXpmN7g%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC?_25 Pin=C?-1
+Added Pin To Net: NetName=NetIC?_24 Pin=C?-2
+Added Pin To Net: NetName=NetIC?_22 Pin=R?-1
+Added Pin To Net: NetName=NetIC?_23 Pin=R?-1
+Change Net Name : Old Net Name=NetIC?_24 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetIC?_25 New Net Name=NetC?_1
+Added Pin To Net: NetName=NetJ?_A6 Pin=J?-A6
+Added Pin To Net: NetName=NetJ?_A6 Pin=J?-B6
+Added Pin To Net: NetName=NetJ?_A6 Pin=R?-2
+Added Net: Name=NetJ?_A6
+Added Pin To Net: NetName=NetJ?_A7 Pin=J?-A7
+Added Pin To Net: NetName=NetJ?_A7 Pin=J?-B7
+Added Pin To Net: NetName=NetJ?_A7 Pin=R?-2
+Added Net: Name=NetJ?_A7
+Added Member To Class: ClassName=PCM2706 Member=Component C? SMP253MA4470MTR24
+Added Member To Class: ClassName=PCM2706 Member=Component R? RC1206FR-072K49L
+Added Member To Class: ClassName=PCM2706 Member=Component R? RC1206FR-072K49L
+Added Room: Name=PCM2706

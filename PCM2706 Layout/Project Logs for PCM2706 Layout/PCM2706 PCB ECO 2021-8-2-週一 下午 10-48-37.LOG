@@ -1,0 +1,47 @@
+Added Component: Designator=J?(632723300011)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://katalog.we-online.de/em/datasheet/632723x00011.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "632723300011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-632723300011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/632723300011?qs=NK6InXoXhq4%252B5eM1PePLPg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=S?(35RAPC4BH3)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "35RAPC4BH3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/35rapc4bh3/switchcraft"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.switchcraft.com/Drawings/35rapc__h3_cd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Switchcraft"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "35RAPC4BH3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "502-35RAPC4BH3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Switchcraft/35RAPC4BH3?qs=I3kMT7EEIOWFGyk5rynRAQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC?_22 Pin=IC?-22
+Added Pin To Net: NetName=NetIC?_22 Pin=J?-A7
+Added Pin To Net: NetName=NetIC?_22 Pin=J?-B7
+Added Net: Name=NetIC?_22
+Added Pin To Net: NetName=NetIC?_23 Pin=IC?-23
+Added Pin To Net: NetName=NetIC?_23 Pin=J?-A6
+Added Pin To Net: NetName=NetIC?_23 Pin=J?-B6
+Added Net: Name=NetIC?_23
+Added Pin To Net: NetName=NetIC?_24 Pin=IC?-24
+Added Pin To Net: NetName=NetIC?_24 Pin=J?-A4
+Added Pin To Net: NetName=NetIC?_24 Pin=J?-A9
+Added Pin To Net: NetName=NetIC?_24 Pin=J?-B4
+Added Pin To Net: NetName=NetIC?_24 Pin=J?-B9
+Added Net: Name=NetIC?_24
+Added Pin To Net: NetName=NetIC?_25 Pin=IC?-25
+Added Pin To Net: NetName=NetIC?_25 Pin=J?-A1
+Added Pin To Net: NetName=NetIC?_25 Pin=J?-A12
+Added Pin To Net: NetName=NetIC?_25 Pin=J?-B1
+Added Pin To Net: NetName=NetIC?_25 Pin=J?-B12
+Added Pin To Net: NetName=NetIC?_25 Pin=S?-1
+Added Net: Name=NetIC?_25
+Added Pin To Net: NetName=NetIC?_28 Pin=IC?-28
+Added Pin To Net: NetName=NetIC?_28 Pin=S?-5
+Added Net: Name=NetIC?_28
+Added Pin To Net: NetName=NetIC?_29 Pin=IC?-29
+Added Pin To Net: NetName=NetIC?_29 Pin=S?-2
+Added Net: Name=NetIC?_29
+Added Member To Class: ClassName=PCM2706 Member=Component J? TypeC
+Added Member To Class: ClassName=PCM2706 Member=Component S? 35RAPC4BH3
